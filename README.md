@@ -1,4 +1,5 @@
-### Drone Race 3D Minigame
+# Drone Race 3D Minigame
+### Source code path: src/lab_m1/tema2
 Drone Race is an immersive 3D racing game developed using OpenGL and C++. The game challenges players to navigate through an obstacle-filled course using a high-performance drone. The goal is to pass through rings that change colors as you fly through them, adding a dynamic element to the racing experience. These color-changing rings act as checkpoints, allowing players to track their progress through the race while adding complexity to the gameplay.
 
 One of the key features of Drone Race is its advanced drone control system. The drone is controlled based on local space axes (Ox, Oy, Oz), which allows for precise maneuvers. The third-person view offers a broader perspective of the environment and the drone’s movements.
